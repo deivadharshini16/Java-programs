@@ -1,0 +1,13 @@
+using System;
+public class Prog
+{
+    static void Main()
+    {
+        int age;
+        Console.WriteLine("Enter the Age :");
+        age=int.Parse(Console.ReadLine());
+        bool a = age >= 18 ? true : false;
+        Console.WriteLine("Age : {0}", a);
+        Console.Read();
+    }
+}
