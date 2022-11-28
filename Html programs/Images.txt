@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Using Image in Webpage</title>
+   </head>
+	
+   <body>
+      <p>Simple Image Insert</p>
+      <img src = "https://cdn.pixabay.com/photo/2014/04/10/11/24/rose-320868__480.jpg" />
+   </body>
+	
+</html>
